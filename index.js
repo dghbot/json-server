@@ -64,3 +64,15 @@ function keepAlive() {
     fetch(url).catch(console.log);
   }, 30 * 1000);
 }
+
+
+/**********************************************************
+  * @INFO
+  * Bot Coded by Sintya4 | https://dghbot.ddns.net/dc
+  * @INFO
+  * Work for DGH QO Development | https://dghbot.ddns.net
+  * @INFO
+  * Please mention him / DGH QO Development, when using this Code!
+  * @INFO
+*********************************************************/
+    
